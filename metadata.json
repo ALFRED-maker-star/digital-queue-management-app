@@ -1,0 +1,6 @@
+{
+  "name": "QuickQueue",
+  "description": "Digital queue management system with instant mobile tickets, live queue tracking, and staff counter operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
